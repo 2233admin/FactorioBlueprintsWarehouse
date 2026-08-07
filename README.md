@@ -1,11 +1,11 @@
 ![](https://img.shields.io/github/languages/code-size/Factorio-Resources/FactorioBlueprintsWarehouse?style=for-the-badge)
 ![](https://img.shields.io/github/last-commit/Factorio-Resources/FactorioBlueprintsWarehouse?style=for-the-badge)
-# 异星工场 蓝图仓库|FactorioBlueprintsWarehouse 
+# 异星工厂 蓝图仓库|FactorioBlueprintsWarehouse 
 简体中文|[English](./README_EN.md)  
   
 **建议阅读完整的说明文件**
 ## 简介
-这是游戏[异星工场](https://www.factorio.com/)中的一个在线蓝图仓库，用于存储和分享蓝图  
+这是游戏[异星工厂](https://www.factorio.com/)中的一个在线蓝图仓库，用于存储和分享蓝图  
 > 灵感源于[戴森球计划蓝图仓库](https://github.com/DSPBluePrints/FactoryBluePrints/)，如果你在玩戴森球计划的话欢迎去那边看看  
 > 打包蓝图书的工具来源于[FactorioBluePrintToolkit](https://github.com/Factorio-Resources/FactorioBluePrintToolkit/)
 
@@ -34,7 +34,7 @@
 您可以在这些QQ群给我们进行投稿蓝图/蓝图夹字符串
 > 上传的字符串的文本文件名要与你的蓝图**一致**,否则最终打包成蓝图书后蓝图名以你的文件名为准
 ```
-异星工场（Mark416_） 179300472
+异星工厂（Mark416_） 179300472
 ```
 ### 通过github直接投稿
 >**需要一定的github和git的使用基础**
