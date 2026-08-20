@@ -2,6 +2,13 @@
 ![](https://img.shields.io/github/last-commit/Factorio-Resources/FactorioBlueprintsWarehouse?style=for-the-badge)
 # 异星工场 蓝图仓库|FactorioBlueprintsWarehouse
 [简体中文](./README.md)|English
+
+
+> [!WARNING]
+> The original maintainer has stepped away from Factorio and is no longer actively updating this repository. **Existing blueprints remain fully functional**. Community PRs for maintenance and new blueprint contributions are welcome.     
+> Interested in long-term maintenance? Contact the author to request collaborator access.
+  
+
 >The following content is translated by GPT3.5.
 
 **Please read the complete documentation**

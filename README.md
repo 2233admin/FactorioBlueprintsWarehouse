@@ -2,6 +2,12 @@
 ![](https://img.shields.io/github/last-commit/Factorio-Resources/FactorioBlueprintsWarehouse?style=for-the-badge)
 # 异星工厂 蓝图仓库|FactorioBlueprintsWarehouse 
 简体中文|[English](./README_EN.md)  
+
+
+> [!WARNING]
+> 原维护者已淡坑，不再主动更新，**仓库内已有蓝图仍可正常使用**。欢迎社区提交 PR 维护/贡献新蓝图  
+> 如有长期维护意愿，可以联系作者添加 collaborator 权限  
+
   
 **建议阅读完整的说明文件**
 ## 简介
